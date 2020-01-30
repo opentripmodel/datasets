@@ -1,4 +1,4 @@
-# OpenTripModel datasets.
+# OpenTripModel datasets
 
 This repository contains some datasets in serialized OpenTripModel format. The datasets are provided as example and are not guaranteed to be accurate and up to date.
 
